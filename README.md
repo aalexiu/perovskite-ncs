@@ -4,4 +4,5 @@ Code and input scripts supporting the analysis of crystallographic and opto-elec
 - analyze_cspbbr3_absolute_tilts.py: generates the absolute octahedral tilts given an xyz file of a Cs(Pb/Ca)Br3 nanocrystal
 - analyze_cspbbr3_bonds_angles.py: generates bond length and angle histograms for a given geometry
 - aims_to_xyz.py: generates xyz file from FHI-aims output
+- inputs: FHIaims and QChem input scripts for geometry optimizations and TDA/TDDFT simulations of pristine and defective slabs and nanocrystals
 
